@@ -6,8 +6,7 @@ function App() {
     <div>
       <header className="App-header">
         <img src="/rs_color_logo_512.png" className="App-logo" alt="logo" />
-        <h1>roguescience.net</h1>
-        <h2>Rap <span className="rogueGreen">|</span> Podcast <span className="rogueGreen">|</span> FGC <span className="rogueGreen">|</span> Research</h2>
+        <h1>roguescience<span className="rogueGreen">.</span>net</h1>
         <div class="down-arrow"></div>
       </header>
 
