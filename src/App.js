@@ -6,7 +6,7 @@ function App() {
     <div>
       <header className="App-header">
         <img src="/rs_color_logo_512.png" className="App-logo" alt="logo" />
-        <h1>roguescience<span className="rogueGreen">.</span>net</h1>
+        <h2>roguescience<span className="rogueGreen">.</span>net</h2>
         <div class="down-arrow"></div>
       </header>
 

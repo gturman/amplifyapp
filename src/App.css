@@ -5,7 +5,7 @@
 
 .App-header {
   background-color: #121430;
-  min-height: 100vh;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,7 +34,7 @@
 }
 
 .down-arrow {
-  color: black;
+  color: #121430;
   position: absolute;
   top: calc(100vh - 60px);
   left: calc(50% - 14px);
