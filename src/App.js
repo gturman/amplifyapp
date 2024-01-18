@@ -7,6 +7,14 @@ function App() {
       <header className="App-header">
         <img src="/rs_color_logo_512.png" className="App-logo" alt="logo" />
         <h2>roguescience<span className="rogueGreen">.</span>net</h2>
+        <p>Rap <span className="rogueLightBlue">|</span> Podcast <span className="rogueLightBlue">|</span> FGC <span className="rogueLightBlue">|</span> Research</p>
+        <div>
+          <a href="https://apple.co/3SlLmEB"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" className="logo"></img></a>
+          <a href="https://open.spotify.com/artist/1iMkfPvX6rUZs7ro6xq23p?si=Ne3MWffiQh61hWQhet56og"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Spotify_1.png" alt="Apple Music" className="logo"></img></a>
+          <a href="https://www.instagram.com/rogue.science/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" className="logo"></img></a>
+          <a href="https://www.youtube.com/@RogueScience"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/YouTube_social_white_circle_%282017%29.svg" alt="Youtube" className="logo"></img></a>
+          <a href="https://www.twitch.tv/nawboi_technologies"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="Twitch" className="logo"></img></a>
+        </div>
         <div class="down-arrow"></div>
       </header>
 
@@ -15,17 +23,17 @@ function App() {
 
         <article>
           <h2>Rap</h2>
-          <p>Rogue Science is a rap duo consisting of El Jefe and ChefBoyRG. Our passion is lyrically focused boom bap rap - inspired by hip hop, science, anime, fighting games, and various other nerd content.</p>
-          <p>Music available on all major streaming platforms, such as <a href="https://open.spotify.com/artist/1iMkfPvX6rUZs7ro6xq23p">Spotify</a> and <a href="https://soundcloud.com/roguescience/albums">SoundCloud</a>.</p> 
-          <p>"Freestyle Friday" LP available now!</p>
+          <p>"Freestyle Friday" LP <a href="https://soundcloud.com/roguescience/sets/freestyle-friday">available now!</a></p>
           <p>"Acoustic Formulas" EP coming soon!</p>
           <p>"Lab Sessions" EP featuring MIL Will M coming soon!</p>
           <p>"Freestyle Friday Volume 2" LP coming soon!</p>
+          <p>Rogue Science is a rap duo consisting of El Jefe and ChefBoyRG. Our passion is lyrically focused boom bap rap - inspired by hip hop, science, anime, fighting games, and various other nerd content. Music available on all major streaming platforms, such as Spotify, Apple Music, and SoundCloud.</p> 
         </article>
 
         <article>
           <h2>Podcast</h2>
-          <p>Rogue Science produces the Freestyle Friday Podcast, live every Friday on Twitch and <a href="https://youtube.com/@RogueScience">Youtube</a>. "The Podcast Where We Learn to Freestyle With Our Friends." A one of a kind show where the hosts and guests rap entirely off the dome, LIVE. </p>
+          <p>"Freestyle Friday Episode 1" <a href="https://youtu.be/9bpBx-eWqx8?si=WS3c1hmvyfoxGV-4">available now!</a></p>
+          <p>Rogue Science produces the Freestyle Friday Podcast, live every Friday on Twitch and Youtube. "The Podcast Where We Learn to Freestyle With Our Friends." A one of a kind show where the hosts and guests rap entirely off the dome, LIVE. </p>
         </article>
 
         <article>
