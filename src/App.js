@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src="/rs_color_logo_512.png" className="App-logo" alt="logo" />
         <h2>roguescience<span className="rogueGreen">.</span>net</h2>
-        <p>Rap <span className="rogueLightBlue">|</span> Podcast <span className="rogueLightBlue">|</span> FGC <span className="rogueLightBlue">|</span> Research</p>
+        <p>Rap <span className="rogueLightBlue">|</span> Live Stream <span className="rogueLightBlue">|</span> FGC <span className="rogueLightBlue">|</span> Research</p>
         <div>
           <a href="https://apple.co/3SlLmEB"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" className="logo"></img></a>
           <a href="https://open.spotify.com/artist/1iMkfPvX6rUZs7ro6xq23p?si=Ne3MWffiQh61hWQhet56og"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Spotify_1.png" alt="Apple Music" className="logo"></img></a>
@@ -23,17 +23,17 @@ function App() {
 
         <article>
           <h2>Rap</h2>
-          <p>"Acoustic Formulas" EP coming 6/7/2024!</p>
           <p>"Lab Sessions" EP featuring MIL Will M coming soon!</p>
           <p>"Freestyle Friday Volume 2" LP coming soon!</p>
+          <p>"Acoustic Formulas" EP available now!</p>
           <p>"Freestyle Friday" LP <a href="https://soundcloud.com/roguescience/sets/freestyle-friday">available now!</a></p>
           <p>Rogue Science is a rap duo consisting of El Jefe and ChefBoyRG. Our passion is lyrically focused boom bap rap - inspired by hip hop, science, anime, fighting games, and various other nerd content. Music available on all major streaming platforms, such as Spotify, Apple Music, and SoundCloud.</p> 
         </article>
 
         <article>
-          <h2>Podcast</h2>
-          <p>"Freestyle Friday" episodes <a href="https://www.youtube.com/watch?v=wCf8oMlTnLE&list=PL7U3XCbSdGOV-T9kbYXN0npe2YwRjhYPu">available now!</a></p>
-          <p>Rogue Science produces the Freestyle Friday Podcast, live every other Friday on Youtube. "The Podcast Where We Learn to Freestyle With Our Friends." A one of a kind show where the hosts and guests rap entirely off the dome, LIVE. </p>
+          <h2>Live Stream</h2>
+          <p>"FREESTYLE FRIDAY LIVE" episodes <a href="https://www.youtube.com/watch?v=JYQ40LJl8HY&list=PL7U3XCbSdGOVjUUKH9Jn6IdJjiCew1sVb">available now!</a></p>
+          <p>Rogue Science presents "FREESTYLE FRIDAY LIVE", live every Friday on Twitch and Youtube. "The Show Where We Learn to Freestyle With Our Friends." A one of a kind show where the hosts and guests rap entirely off the dome, LIVE. </p>
         </article>
 
         <article>
