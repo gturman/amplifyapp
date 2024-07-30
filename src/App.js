@@ -15,7 +15,7 @@ function App() {
           <a href="https://www.instagram.com/rogue.science/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" className="logo"></img></a>
           <a href="https://www.youtube.com/@RogueScience?sub_confirmation=1"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/YouTube_social_white_circle_%282017%29.svg" alt="Youtube" className="logo"></img></a>
           <a href="https://www.twitch.tv/roguesciencelive"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="Twitch" className="logo"></img></a>
-          <a href="https://x.com/roguesciencerap"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" className="logo"></img></a>
+          <a href="https://x.com/roguescience305"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" className="logo"></img></a>
           <a href="https://discord.com/invite/gNmSFxYNMD"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" className="logo"></img></a>
         </div>
         <div class="down-arrow"></div>
