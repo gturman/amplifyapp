@@ -26,8 +26,8 @@ function App() {
 
         <article>
           <h2>Rap</h2>
-          <p>"Lab Sessions" EP featuring MIL Will M coming soon!</p>
           <p>"Freestyle Friday Volume 2" LP coming soon!</p>
+          <p>"Lab Sessions" EP featuring MIL Will M <a href="https://distrokid.com/hyperfollow/roguescience/lab-sessions">available now!</a></p>
           <p>"Acoustic Formulas" EP <a href="https://distrokid.com/hyperfollow/roguescience/acoustic-formulas">available now!</a></p>
           <p>"Freestyle Friday" LP <a href="https://soundcloud.com/roguescience/sets/freestyle-friday">available now!</a></p>
           <p>Rogue Science is a rap duo consisting of El Jefe and ChefBoyRG. Our passion is lyrically focused boom bap rap - inspired by hip hop, science, anime, fighting games, and various other nerd content. Music available on all major streaming platforms, such as Spotify, Apple Music, and SoundCloud.</p> 
